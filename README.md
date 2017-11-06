@@ -40,3 +40,5 @@ You will also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.
+It will run related test only if there are changes from last commit.
+To run all test press `a` when in watch mode. 
